@@ -1,0 +1,5 @@
+node_modules/
+pokemon.db
+*.db-shm
+*.db-wal
+.env

@@ -1,0 +1,19 @@
+{
+  "name": "pokeapijc",
+  "version": "1.0.0",
+  "description": "Pokemon Database REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step'"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "better-sqlite3": "9.4.3",
+    "cors": "2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
